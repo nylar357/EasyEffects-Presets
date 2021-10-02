@@ -1,4 +1,4 @@
-![preview](speakre.png)
+![preview](speaker.png)
 
 # PulseEffects/EasyEffects Loudness Equalizer Preset
 
