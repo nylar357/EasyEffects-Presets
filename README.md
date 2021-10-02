@@ -1,3 +1,5 @@
+![preview](speakre.png)
+
 # PulseEffects/EasyEffects Loudness Equalizer Preset
 
 This is my preset for [EasyEffects](https://github.com/wwmm/easyeffects). Two alternate versions are also provided for [Legacy PulseEffects](https://github.com/wwmm/easyeffects/tree/pulseaudio-legacy) and [Carla-Rack Jack Host](https://kx.studio/Applications:Carla).
